@@ -29,7 +29,7 @@
 |2| [Image–Text Relevance Scoring: Demo for Visual Search](https://github.com/Indzhira/Image-Text-Relevance-Scoring) | Демонстрационная система поиска изображений по текстовому запросу. Модель обучается предсказывать степень соответствия изображения и описания.| nltk, sentence-transformers, torchvision, PyTorch| 
 |3| [StarTempNet: прогнозирование температуры звезды с помощью нейронной сети](https://github.com/Indzhira/StarTempNet) |C помощью нейронной сети решается задача регрессии: предсказание абсолютной температуры поверхности звезды по её наблюдаемым астрофизическим характеристикам. | pandas, numpy, scikit-learn, PyTorch|
 |4| [SteelTempForecast: предсказание температуры сплава](https://github.com/Indzhira/SteelTempForecast) |Предсказание температуры сплава для снижения энергопотребления на металлургическом производстве на основе технологических параметров. | sqlalchemy, xgboost, lightgbm, RandomForest|
-|5|[Heart Attack Risk Project](https://github.com/Indzhira/Heart-Attack-Risk-Project)| Предсказание риска сердечного приступа на основе данных пациентов и реализация приложения на FastAPI.|API|
+|5|[Heart Attack Risk Project](https://github.com/Indzhira/Heart-Attack-Risk-Project)| Предсказание риска сердечного приступа на основе данных пациентов и реализация приложения на FastAPI.|Python, FastAPI, pandas, scikit-learn, joblib, Jinja2|
 |6|[Оценка риска ДТП для каршеринга](https://github.com/Indzhira/Car-accident-risk)|Оценка риска ДТП для выбранного маршрута движения на основе исторических данных.|sqlalchemy, psycopg2-binary, catboost|
 
 
