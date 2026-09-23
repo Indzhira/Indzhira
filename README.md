@@ -38,4 +38,4 @@
 ## Контакты
 
 * Email: mukharaeva23@yandex.ru
-* Telegram: @indjira
+* Telegram: https://t.me/indjira
