@@ -16,11 +16,11 @@
 
 ## Навыки
 
-* ML & Statistics: classical ML (scikit‑learn, RandomForest, LightGBM, XGBoost, CatBoost), интерпретация (SHAP, feature importance), A/B‑тесты, проверка гипотез, работа с дисбалансом и выбросами.
-* Programming: Python (pandas, numpy, scipy), SQL, Git
-* Deep Learning: PyTorch.
-* Big Data: Spark
-* Visualization: matplotlib, seaborn
+* **ML & Statistics:** classical ML (scikit‑learn, RandomForest, LightGBM, XGBoost, CatBoost), интерпретация (SHAP, feature importance), A/B‑тесты, проверка гипотез, работа с дисбалансом и выбросами.
+* **Programming:** Python (pandas, numpy, scipy), SQL, Git
+* **Deep Learning:** PyTorch
+* **Big Data:** Spark
+* **Visualization:** matplotlib, seaborn
 
 
 ## Проекты
