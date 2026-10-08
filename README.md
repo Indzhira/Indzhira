@@ -27,7 +27,7 @@
 
 |#| Название | Описание | Стек | 
 |-|----------|----------|------|
-|1|[HR-Analitics: удовлетворённость и вероятность увольнения на основе ML](https://github.com/Indzhira/HR-analitics)| Полный пайплайн машинного обучения для решения двух HR‑задач: прогнозирование уровня удовлетворённости сотрудников работой и вероятности увольнения сотрудника.| Python, scikit-learn, Pipeline, ColumnTransformer, statsmodels | 
+|1|[HR Analytics: прогнозирование удовлетворённости и увольнения сотрудников](https://github.com/Indzhira/HR-analitics)| Полный пайплайн машинного обучения для решения двух HR‑задач: прогнозирование уровня удовлетворённости сотрудников работой и вероятности увольнения сотрудника.| Python, scikit-learn, Pipeline, ColumnTransformer, statsmodels | 
 |2| [Image–Text Relevance Scoring: Demo for Visual Search](https://github.com/Indzhira/Image-Text-Relevance-Scoring) | Демонстрационная система поиска изображений по текстовому запросу. Модель обучается предсказывать степень соответствия изображения и описания.| nltk, sentence-transformers, torchvision, PyTorch| 
 |3| [StarTempNet: прогнозирование температуры звезды с помощью нейронной сети](https://github.com/Indzhira/StarTempNet) |C помощью нейронной сети решается задача регрессии: предсказание абсолютной температуры поверхности звезды по её наблюдаемым астрофизическим характеристикам. | pandas, numpy, scikit-learn, PyTorch|
 |4| [SteelTempForecast: предсказание температуры сплава](https://github.com/Indzhira/SteelTempForecast) |Предсказание температуры сплава для снижения энергопотребления на металлургическом производстве на основе технологических параметров. | Python, SQL, LightGBM, XGBoost, SHAP |
